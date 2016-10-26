@@ -4,9 +4,9 @@
 
 Interview Resources aims to bring you a comprehensive list of interview questions commonly heard in today's job-hunting market.
 
-These will most likely fall into Entry Level questions since that's what I've been applying for. There may be some internship ones based on others as well. 
-
 The collection will be separated by interview type, rather than company, so that you can apply the questions across industries.
+
+*Most of these will be based on Entry Level SWE Questions that have been asked. There may also be Internship ones as well and Code Challenges given.*
 
 Ready. Set. Land the Offer.
 
@@ -42,4 +42,3 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-=======
