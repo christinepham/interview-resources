@@ -14,10 +14,10 @@ Ready. Set. Land the Offer.
 
 Bug reports and pull requests are welcome on GitHub. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
 
-1. Fork it (https://github.com/christinepham/interview-resources)
-2. Create your feature branch (<tt>git checkout -b my-new-feature</tt>)
-3. Commit your changes (<tt>git commit -am 'Add some feature'</tt>)
-4. Push to the branch (<tt>git push origin my-new-feature</tt>)
+1. Fork it https://github.com/christinepham/interview-resources or can be found in the top right corner
+2. Create your feature branch <tt>git checkout -b my-new-feature</tt>
+3. Commit your changes <tt>git commit -am 'Add some feature'</tt>
+4. Push to the branch <tt>git push origin my-new-feature</tt>
 5. Create a new Pull Request
 
 ## License
