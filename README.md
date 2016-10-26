@@ -1,5 +1,6 @@
 # Interview Resources
 
-Repository for common Interview Questions.
+This repository is for common Interview Questions.
 
-This will be separated by interview type questions and not by company.
+The questions in this repository will be separated by interview type and not by company.
+You can add the questions you have been asked this hiring season, to help others.
