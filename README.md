@@ -1,4 +1,4 @@
-# interview-resources
+# Interview Resources
 
 Repository for common Interview Questions.
 
