@@ -1,5 +1,4 @@
 # Interview Resources
 
-Repository for common Interview Questions.
-
-This will be separated by interview type questions and not by company.
+Interview Resources is a repository that contains common interview questions.
+Questions added to this repository will be organized by question type rather than by company.
