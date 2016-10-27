@@ -15,9 +15,9 @@ class Main {
         }
         
         if (num < arr[len/2] && num >= arr[start]) {   
-             return checkValue(arr, start, len/2-1, num);   
+             return checkValue(arr, start, len/2 - 1, num);   
         } else if (num > arr[len/2] && num <= arr[end]) {
-            return checkValue(arr, len/2 +1, end, num);
+            return checkValue(arr, len/2 + 1, end, num);
         }
         
         return false;
