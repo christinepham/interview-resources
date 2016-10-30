@@ -6,19 +6,21 @@ Interview Resources aims to bring you a comprehensive list of interview question
 
 The collection will be separated by interview type, rather than company, so that you can apply the questions across industries.
 
-*Most of these will be based on Entry Level SWE Questions that have been asked. There may also be Internship ones as well and Code Challenges given.*
-
 Ready. Set. Land the Offer.
+
+** Note: *Most of these will be based on Entry Level SWE Questions that have been asked. There may also be Internship ones as well and Code Challenges given.*
 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
 
-1. Fork it https://github.com/christinepham/interview-resources or can be found in the top right corner
+1. Fork it https://github.com/christinepham/interview-resources
 2. Create your feature branch <tt>git checkout -b my-new-feature</tt>
 3. Commit your changes <tt>git commit -am 'Add some feature'</tt>
 4. Push to the branch <tt>git push origin my-new-feature</tt>
 5. Create a new Pull Request
+
+Refer to this [Beginner's Guide to Github](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) if there are any other issues!
 
 ## License
 
