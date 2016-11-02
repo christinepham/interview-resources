@@ -27,3 +27,22 @@
     return result;
   }
 ```
+Notes:
+I 1
+II 2
+III 3
+IV 4
+V 5
+VI 6
+IX 9
+X 10
+XI 11
+XIV 14
+XIX 19
+XXVI 26
+XC 90
+C 100
+D 500
+M 10000
+MM 2000
+MCMX 1910
