@@ -46,3 +46,6 @@ D 500
 M 10000
 MM 2000
 MCMX 1910
+
+http://www.selftaughtjs.com/algorithm-sundays-converting-roman-numerals/
+http://blog.stevenlevithan.com/archives/javascript-roman-numeral-converter
