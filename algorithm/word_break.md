@@ -19,3 +19,7 @@ public String wordBreak(String input, Set<String> dict) {
   }
   return sentence;
 ```
+
+Click here for better solutions:
+1. [The Noisy Channel](http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem)
+2. [Tutorial Horizon](http://algorithms.tutorialhorizon.com/the-word-break-problem/)
