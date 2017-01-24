@@ -13,3 +13,10 @@
 ### Sites Dedicated to Coding Questions - Database of several questions to look through
 - [GeeksforGeeks](http://www.geeksforgeeks.org/)
 - [Program Creek](http://www.programcreek.com/)
+
+### Sites for JavaScript Developers
+- [10 Interview Questions - Medium](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.9wcn2hq28)
+- [21 Essential Questions - Code Mentor](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
+- [25 Essential Questions - Toptal](https://www.toptal.com/javascript/interview-questions)
+- [ThatJSDude](http://www.thatjsdude.com/)
+- [5 Typical Questions - Sitepoint](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
