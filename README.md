@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Interview Resources aims to bring you a comprehensive list of interview questions commonly heard in today's job-hunting market.
+Interview Resources aims to bring you a list of interview questions commonly heard in today's job-hunting market.
 
 The collection will be separated by interview type, rather than company, so that you can apply the questions across industries.
 
-Ready. Set. Land the Offer.
+There is also a file with other resources for interview practice, feel free to add to it.
 
 ** Note: *Most of these will be based on Entry Level SWE Questions that have been asked. There may also be Internship ones as well and Code Challenges given.*
 
