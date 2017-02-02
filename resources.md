@@ -20,3 +20,6 @@
 - [25 Essential Questions - Toptal](https://www.toptal.com/javascript/interview-questions)
 - [ThatJSDude](http://www.thatjsdude.com/)
 - [5 Typical Questions - Sitepoint](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
+
+### Easy Company Applications
+- [Easy Application - Courtesy of j-delaney](https://github.com/j-delaney/easy-application)
