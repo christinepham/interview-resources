@@ -10,6 +10,13 @@
 - [interviewing.io](https://interviewing.io/)
 - [pramp](https://www.pramp.com/)
 
+### Realtime Editors - Phone screens generally use these tools or use it to practice with friends
+- [collabedit](http://collabedit.com/)
+- [codeshare.io](https://codeshare.io/)
+- [coderpad.io](https://coderpad.io)
+- [codepen.io](http://codepen.io/)
+- [jsfiddle](https://jsfiddle.net/)
+
 ### Sites Dedicated to Coding Questions - Database of several questions to look through
 - [GeeksforGeeks](http://www.geeksforgeeks.org/)
 - [Program Creek](http://www.programcreek.com/)
