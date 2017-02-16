@@ -12,11 +12,12 @@
 - [pramp](https://www.pramp.com/)
 
 ### Realtime Editors - Phone screens generally use these tools or use it to practice with friends
-- [collabedit](http://collabedit.com/)
-- [codeshare.io](https://codeshare.io/)
-- [coderpad.io](https://coderpad.io)
-- [codepen.io](http://codepen.io/)
-- [jsfiddle](https://jsfiddle.net/)
+- [collabedit](http://collabedit.com/) - Similar to Google Docs, doesn't compile
+- [codeshare.io](https://codeshare.io/) - Similar to Google Docs, doesn't compile your code
+- [coderpad.io](https://coderpad.io) - Need to pay to use eventually, can use demo
+- [codepen.io](http://codepen.io/) - More for frontend development, can also create an account to show off pens
+- [jsfiddle](https://jsfiddle.net/) - More for frontend as well, can save fiddles
+- [codepad.io](https://codepad.remoteinterview.io/) - Compiles code, no account needed
 
 ### Sites Dedicated to Coding Questions - Database of several questions to look through
 - [GeeksforGeeks](http://www.geeksforgeeks.org/)
