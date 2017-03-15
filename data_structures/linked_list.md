@@ -48,3 +48,5 @@ public class Solution {
 	}
 }
 ```
+3. Root to leaf path sum equal to a given number
+-[GeeksForGeeks](http://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/)
