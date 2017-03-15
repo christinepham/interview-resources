@@ -28,3 +28,7 @@ class Main {
 ### 2. Given an unsorted array of n integers which can contain integers from 1 to n. Some elements can be repeated multiple times and some other elements can be absent from the array. Count frequency of all elements that are present and print the missing elements. (Taken from http://www.geeksforgeeks.org/count-frequencies-elements-array-o1-extra-space-time/)
 
 ### 3. Given an array of ball objects, where each ball has one of three colors (blue, red, and green). Sort them in which all blue balls are on the left, green balls in the middle, and red balls in the right. Follow up: What are the space and time complexity of your algorithm?
+
+### 4. Find the median of two sorted arrays
+
+-[GeeksForGeeks](http://www.geeksforgeeks.org/median-of-two-sorted-arrays/)
