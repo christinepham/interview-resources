@@ -5,6 +5,7 @@
 - [Jobvite](http://www.jobvite.com/)
 - [Hired](https://hired.com/)
 - [Dice](http://www.dice.com/)
+- [Inlude.io](https://include.io/)
 
 ### Recruiting Companies
 - [Intera Growth](http://www.interagrowthpartners.com/)
