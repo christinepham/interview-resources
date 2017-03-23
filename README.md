@@ -2,13 +2,15 @@
 
 ## Introduction
 
-Interview Resources aims to bring you a list of interview questions commonly heard in today's job-hunting market.
+Interview Resources is primarily a place that aggregates all the resources you might use to study for jobs.
 
-The collection will be separated by interview type, rather than company, so that you can apply the questions across industries.
-
-There is also a file with other resources for interview practice, feel free to add to it.
-
-** Note: *Most of these will be based on Entry Level SWE Questions that have been asked. There may also be Internship ones as well and Code Challenges given.*
+### Categories Include:
+- Algorithms
+- Data Structure (Specific to a data structure)
+- Frontend (JavaScript/HTML/CSS specific)
+- Big_O.md (references big o sites to learn)
+- Resources.md (Has links to interview practice sites, tips and such)
+- Job_Boards.md (Has links to job boards you can apply to online)
 
 ## Contributing
 
@@ -26,21 +28,15 @@ Refer to this [Beginner's Guide to Github](https://akrabat.com/the-beginners-gui
 
 Copyright (c) 2016 Christine Pham
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation 
+files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, 
+modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the 
+Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
