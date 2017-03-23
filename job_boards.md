@@ -5,15 +5,17 @@
 - [Jobvite](http://www.jobvite.com/)
 - [Hired](https://hired.com/)
 - [Dice](http://www.dice.com/)
-- [Inlude.io](https://include.io/)
+- [Venture Loop](http://www.ventureloop.com/ventureloop/home.php) - Mainly for startups
 
 ### Recruiting Companies
 - [Intera Growth](http://www.interagrowthpartners.com/)
 - [SkyRocket Ventures](http://skyrocketventures.com/)
 - [Cadre](http://cadrestaff.com/)
 
-### Female related job portals
+### Diversity related job portals
 - [Tech Ladies](https://www.hiretechladies.com/) - need to apply to be able to browse their jobs
 - [Women Who Code](https://www.womenwhocode.com/) - no account needed
+- [Inlude.io](https://include.io/) - focuses on interests
+- [Power To Fly](https://powertofly.com/) - posts about jobs that want women in the force
 
 ** I have not personally used all of these but have heard of it
