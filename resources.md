@@ -37,6 +37,7 @@
 - [System Design - Hired In Tech](https://www.hiredintech.com/classrooms/system-design/lesson/60)
 - [Felix Fang Job Hunt Article](https://www.linkedin.com/pulse/5-key-learnings-from-post-bootcamp-job-search-felix-feng)
 - [Resume Builders](https://www.kickresume.com/)
+- [Sideways Dictionary](https://sidewaysdictionary.com/#/) - dictionary for tech terms
 
 ### Easy Company Applications
 - [Easy Application - Courtesy of j-delaney](https://github.com/j-delaney/easy-application)
