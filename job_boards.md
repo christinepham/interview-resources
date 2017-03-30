@@ -4,8 +4,10 @@
 - [Indeed](https://www.indeed.com/prime)
 - [Jobvite](http://www.jobvite.com/)
 - [Hired](https://hired.com/)
+- [Vettery](https://www.vettery.com/)
 - [Dice](http://www.dice.com/)
 - [Venture Loop](http://www.ventureloop.com/ventureloop/home.php) - Mainly for startups
+- [First Round Capital](http://firstround.com/)
 
 ### Recruiting Companies
 - [Intera Growth](http://www.interagrowthpartners.com/)
