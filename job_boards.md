@@ -7,7 +7,8 @@
 - [Vettery](https://www.vettery.com/)
 - [Dice](http://www.dice.com/)
 - [Venture Loop](http://www.ventureloop.com/ventureloop/home.php) - Mainly for startups
-- [First Round Capital](http://firstround.com/)
+- [First Round Capital](http://firstround.com/) - Mainly for startups
+- [HireClout](https://hireclout.com/) - Jobs in the SF Area and Los Angeles Area
 
 ### Recruiting Companies
 - [Intera Growth](http://www.interagrowthpartners.com/)
