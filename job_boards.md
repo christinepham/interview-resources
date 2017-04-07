@@ -9,6 +9,7 @@
 - [Venture Loop](http://www.ventureloop.com/ventureloop/home.php) - Mainly for startups
 - [First Round Capital](http://firstround.com/) - Mainly for startups
 - [HireClout](https://hireclout.com/) - Jobs in the SF Area and Los Angeles Area
+- [Leap.ai](https://leap.ai/welcome) - For fast growing companies, personalized career assistant
 
 ### Recruiting Companies
 - [Intera Growth](http://www.interagrowthpartners.com/)
