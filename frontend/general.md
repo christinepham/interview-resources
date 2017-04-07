@@ -6,7 +6,7 @@
 
 ### 3. What are different types of HTTP Calls?
   
-  Follow Up: What is the difference between GET and POST and when would you use one over the other?
+  *Follow Up:* What is the difference between GET and POST and when would you use one over the other?
   [w3schools - http methods](http://www.w3schools.com/TAGS/ref_httpmethods.asp)
   [Stack Overflow - diff between post and get](http://stackoverflow.com/questions/3477333/what-is-the-difference-between-post-and-get)
 
