@@ -1,15 +1,17 @@
 ### Online Portals that help connect you to jobs
 - [Underdog.io](underdog.io) - need to be accepted into the program
 - [Triplebyte](https://triplebyte.com/) - need to sign up and take a few tests
-- [Indeed](https://www.indeed.com/prime)
-- [Jobvite](http://www.jobvite.com/)
-- [Hired](https://hired.com/)
-- [Vettery](https://www.vettery.com/)
-- [Dice](http://www.dice.com/)
+- [Indeed](https://www.indeed.com/prime) - Apply once to be considered for multiple jobs at great companies
+- [Jobvite](http://www.jobvite.com/) - Jobvite is leading the industry by helping emerging and enterprise companies hire top talent easily, efficiently, and effectively
+- [Hired](https://hired.com/) - Create profile & apply, receive interview requests from companies
+- [Vettery](https://www.vettery.com/) - Profile is active for as long as you want
+- [Dice](http://www.dice.com/) - Find your perfect job on the US's leading tech Job site
 - [Venture Loop](http://www.ventureloop.com/ventureloop/home.php) - Mainly for startups
 - [First Round Capital](http://firstround.com/) - Mainly for startups
 - [HireClout](https://hireclout.com/) - Jobs in the SF Area and Los Angeles Area
 - [Leap.ai](https://leap.ai/welcome) - For fast growing companies, personalized career assistant
+- [Untapt](https://www.untapt.com/) - Use machine learning to find your next software industry job
+
 
 ### Recruiting Companies
 - [Intera Growth](http://www.interagrowthpartners.com/)
