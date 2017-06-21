@@ -1,4 +1,5 @@
-Write a program that takes in a string and returns the number of repeating characters
+Write a program that takes in a string and returns the number of repeating characters.
+https://en.wikipedia.org/wiki/Run-length_encoding
 
 INPUT: "aaaabbbbbccc"
 OUTPUT: "4a5b3c"
