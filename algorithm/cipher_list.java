@@ -52,35 +52,61 @@ class Solution {
     2. Shift one of the strings
     
     Edge Case
-    1. Check initial lengths --> false
-    2. Check for null strings --> false
+    1. Check for null strings --> false
+    2. Check initial lengths --> false
     3. Check for 0 length --> false
   */
   
   public static boolean isCipheredVersion(String s1, String s2) {
-    if (s1.length() != s2.length()) {
+    if (s1 == null || s2 == null) {
       return false; 
-    } else if (s1 == null || s2 == null) {
+    } else if (s1.length() != s2.length()) {
       return false;
     } else if (s1.length() == 0 || s2.length() == 0) {
       return false;
     }
     
     int key = (int)s2.charAt(0) - (int)s1.charAt(0);
-
-    StringBuffer result = new StringBuffer();
     
     for (int i = 0; i < s1.length(); i++) {
-       char cipher = (char)(((int)s1.charAt(i) + key - 97) % 26 + 97);
-      result.append(cipher);
+      if ( (((int)s1.charAt(i) + key - 97) % 26 + 97) != (int)s2.charAt(i)) {
+           return false;   
+      }
     }
     
-    return result.toString().equals(s2);
+    return true;
     
+  }
+
+  public static int stringValue(String s) {
+    if (s == null || s.length() == 0) {
+        return 0;
+    }
+    int initial = (int)s.charAt(0) - 97 + 1;
+    int val = 0;
+    for (int i = 1; i < s.length(); i++) {
+        val += Math.pow(27, (i-1)) * ((int)s.charAt(i) - initial);
+    }
+    return val;
+  }
+
+  public static Map<Integer, ArrayList<String>> cipheredList(List<String> sl) {
+    Map<Integer, ArrayList<String>> retList = new HashMap<Integer, ArrayList<String>>();
+    for (int i=0; i< sl.size(); i++) {
+        int val = stringValue(sl.get(i));
+        ArrayList<String> al = retList.get(val);
+        if (al == null) {
+            al = new ArrayList<String>();
+        }
+        al.add(sl.get(i));
+        retList.put(val, al);
+    }
+    return retList;
   }
   
   //not fully functional
-  public static ArrayList<String> cipheredList(List<String> s1) {
+  /*
+  public static ArrayList<String> cipheredList2(List<String> s1) {
     ArrayList<ArrayList<String>> newList = new ArrayList<ArrayList<String>>();
     newList.add(s1.indexOf(0));
     
@@ -101,4 +127,5 @@ class Solution {
     }
     return newList;
   }
+  */
 }
