@@ -1,3 +1,5 @@
+* Leetcode questions - [Github - Paopao2](https://github.com/paopao2/leetcode-js)
+
 * **Name some CSS position properties and what they mean** (*source*: [w3schools-pr_class_position](https://www.w3schools.com/cssref/pr_class_position.asp))
   * *Static* - default value, elements render in order as they appear in the document flow
   * *Absolute* - The element is positioned relative to its first positioned (not static) ancestor element
@@ -23,7 +25,7 @@
   * The <!DOCTYPE> declaration must be the very first thing in your HTML document, before the <html> tag.
   * The <!DOCTYPE> declaration is not an HTML tag; it is an instruction to the web browser about what version of HTML the page is written in.
   
-* **What is the difference between a GET and a POST?** (*source*: [w3schools-ref_httpmethods](https://www.w3schools.com/TAGs/ref_httpmethods.asp))
+* **What is the difference between a GET and a POST?** (*source*: [w3schools-ref_httpmethods](https://www.w3schools.com/TAGs/ref_httpmethods.asp) or Stack Overflow - diff between post and get](http://stackoverflow.com/questions/3477333/what-is-the-difference-between-post-and-get))
   ###### GET
   * Requests data from a specified resource
   * Query string is in the url of the request (i.e. /test/demo_form.php?name1=value1&name2=value2)
@@ -62,4 +64,33 @@
   * *3XX* - redirection
   * *4XX* - client error
   * *5XX* - server error
+
+* **Explain Benefits of MVC Patterns (i.e. using frameworks like AngularJS)?** (*source*: [Career Ride - MVC benefits](http://www.careerride.com/MVC-benefits.aspx))
+
+* **How do you optimize page loading?** (*source*: [woo rank - page load time](https://www.woorank.com/en/edu/seo-guides/page-load-time))
+
+* **What is Reflow?** (*source*: [Stack Overflow - What is Dom Reflow](http://stackoverflow.com/questions/27637184/what-is-dom-reflow))
+
+* **Do you know what a promise is?** (*source*: [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve))
+
+* **How would you fix an asynchronous call?** (*source*: [Staying Sane with Async Promises](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators) or
+[Async Javascript](https://blog.risingstack.com/asynchronous-javascript/))
+
+* **How would you make an autocomplete perform faster?** (*source*: [How to build fast client side searches](http://code.flickr.net/2009/03/18/building-fast-client-side-searches/))
+
+* **What is a Service?** (*source*: [AngularJS - Docs](https://docs.angularjs.org/guide/services))
+
+* **Which area of the MVC would you do Dom Manipulation?** (*source*:[Dom - Manipulation](http://ng-learn.org/2014/01/Dom-Manipulations/))
+
+* **What's the difference between Cookies, Local Storage and Session Storage** (*source*: [Quora](https://www.quora.com/What-is-the-difference-between-sessionstorage-localstorage-and-Cookies))
+
+* **What are your thoughts about Angular 1 vs. Angular 2?** (*source*: [Quora](https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2) or [DZone](https://dzone.com/articles/typed-front-end-with-angular-2))
+
+* **What is the difference between Call and Apply?** (*source*: [Difference between Call & Apply](https://hangar.runway7.net/javascript/difference-call-apply))
+
+* **What is Immediate Invoked Function Expression (IIFE)?** (*source*: [codeburst](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18))
+
+
+
+
   
