@@ -80,7 +80,7 @@
 
 * **What is a Service?** (*source*: [AngularJS - Docs](https://docs.angularjs.org/guide/services))
 
-* **Which area of the MVC would you do Dom Manipulation?** (*source*:[Dom - Manipulation](http://ng-learn.org/2014/01/Dom-Manipulations/))
+* **Which area of the MVC would you do Dom Manipulation?** (*source*: [Dom - Manipulation](http://ng-learn.org/2014/01/Dom-Manipulations/))
 
 * **What's the difference between Cookies, Local Storage and Session Storage** (*source*: [Quora](https://www.quora.com/What-is-the-difference-between-sessionstorage-localstorage-and-Cookies))
 
@@ -89,6 +89,8 @@
 * **What is the difference between Call and Apply?** (*source*: [Difference between Call & Apply](https://hangar.runway7.net/javascript/difference-call-apply))
 
 * **What is Immediate Invoked Function Expression (IIFE)?** (*source*: [codeburst](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18))
+
+* **Example of JavaScript Closure with SetTimeout** (*source*: [brackets: curly](http://brackets.clementng.me/post/24150213014/example-of-a-javascript-closure-settimeout-inside))
 
 
 
