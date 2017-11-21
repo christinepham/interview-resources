@@ -31,6 +31,7 @@
 - [ThatJSDude](http://www.thatjsdude.com/)
 - [5 Typical Questions - Sitepoint](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 - [HTML & CSS Overview](https://internetingishard.com/html-and-css/)
+- [Interviewing a front-end developer](http://blog.sourcing.io/interview-questions)
 
 ### Helpful Sites
 - [How To Prepare For Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
