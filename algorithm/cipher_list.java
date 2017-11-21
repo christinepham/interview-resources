@@ -13,6 +13,8 @@ Objective: Implement a function that takes in two strings. Output whether one of
 bad, dcf: true
 abc, bcd: true
 bad, dcg: false
+
+example: http://www.sanfoundry.com/java-program-implement-caesar-cypher/
 */
 
 /*
