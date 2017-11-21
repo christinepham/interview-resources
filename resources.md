@@ -28,6 +28,7 @@
 - [21 Essential Questions - Code Mentor](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
 - [25 Essential Questions - Toptal](https://www.toptal.com/javascript/interview-questions)
 - [Frontend Interview Questions - h5bp](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Frontend Interview Questions - khan4019](https://github.com/khan4019/front-end-Interview-Questions)
 - [ThatJSDude](http://www.thatjsdude.com/)
 - [5 Typical Questions - Sitepoint](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 - [HTML & CSS Overview](https://internetingishard.com/html-and-css/)
