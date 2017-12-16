@@ -16,10 +16,10 @@ var list = document.getElementById('itemList');
 var lastid = 0;
 
 function updateItem(e) {
-	if(e.keyCode === 13) {
+    if(e.keyCode === 13) {
   	e.preventDefault();
-    
-   	var itemToAdd = document.getElementById('itemName').value;
+    }
+    var itemToAdd = document.getElementById('itemName').value;
     var entry = document.createElement('li');
     entry.appendChild(document.createTextNode(itemToAdd));
     entry.setAttribute('id','item'+lastid);
@@ -33,7 +33,6 @@ function updateItem(e) {
     lastid+=1;
     list.appendChild(entry);
   }
-   
 }
 
 
