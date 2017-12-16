@@ -64,10 +64,7 @@ function displayText(text) {
   };
 }
 
-var text = "Hello, my name is Christine and I'm currently working on 
-this code that will only show the first 200 characters of a paragraph. 
-The rest of it will be hidden unless you click 'more'. ABCDEFGHIJKL 
-ABCDEFGHIJK ABCDEFGHIJK ABCDEFGHIJKABCDEFGHIJKL ABCDEFGHIJKL ABCDEFGHIJKL END";
+var text = "Hello, my name is Christine and I'm currently working on this code that will only show the first 200 characters of a paragraph. The rest of it will be hidden unless you click 'more'. ABCDEFGHIJKL ABCDEFGHIJK ABCDEFGHIJK ABCDEFGHIJKABCDEFGHIJKL ABCDEFGHIJKL ABCDEFGHIJKL END";
 
 displayText(text);
 ```
