@@ -92,7 +92,182 @@
 
 * **Example of JavaScript Closure with SetTimeout** (*source*: [brackets: curly](http://brackets.clementng.me/post/24150213014/example-of-a-javascript-closure-settimeout-inside))
 
+* **What do the following produce**
+```js
+function generate(seed) {
+	var private = seed;
+	return function(param) {
+		private += seed;
+		return private + param;
+	};
+}
+var a = generate(1)
+var b = generate(2)
+var c = a(1) + a(2) + b(3) + b(4)
+```
 
+```js
+var calc2 = (z) => z * 10;
 
+var calc1 = (x,y) => {
+  return (x * y) + calc2(x);
+};
 
+A. calc1(2,3); //good
+B. var values = [2,3];
+calc1.apply(this,values); //good
+C.	var values = [2,3];
+calc1.apply(values);
+D.	calc1.call(this,2,3); //good
+E.	calc1.call(2,3);
+```
+
+```js
+var w = new WeakMap();
+var o1 = {}, o2 = {};
+var o3 = function() {}, o4 = function() {};
+
+w.set(o1, 100);
+w.set(o2, 200);
+w.set(o3, 'blue');
+w.set(o4, 'red');
+
+var color;
+
+color = w.get(o3);
+```
+
+* **For the JavaScript code snippet below, which of the following correctly identify the number of properties of the student object?**
+var student = new Object({type:"student"});
+
+function setvals(s) {
+    s.name = "John";
+    s.age = 15;
+    s.id = 100;
+}
+setvals(student);
+
+* **Which of the following are valid values for the outcome variable after executing the JavaScript code snippet below?**
+someText = 'JavaScript1.2';
+pattern = /(\w+)(\d)\.(\d)/i;
+outcome = pattern.test(someText);
+
+* **Which of the following are valid outputs of executing the JavaScript code snippet below?**
+```js
+var y;
+function modifyVariables(x) {
+ var z = 5;
+ x += 2;
+ y += x + z;
+}
+
+var x = 1;
+var y = 2;
+var z = 3;
+modifyVariables(x);
+document.writeln(x);
+document.writeln(y);
+document.writeln(z);
+```
+
+* **What does this produce**
+```js
+var total=0;
+for (var x = 1; x < 5; x = x << 1) {
+   total += x;
+} 
+document.write(total);
+```
+
+```js
+var list = new Map();
+
+list.set("Cat in the Hat",10);
+list.set("Green Eggs and Ham",20);
+
+var book = { name: "Alice in Worderland" };
+list.set(book,30);
+
+console.log(list.entries());
+```
+
+```js
+var x = 9;
+x = x >> 2;
+x = x << 2;
+x = x ^ 3; 
+document.writeln(x);
+```
+
+*  **Which of the following correctly identify the full output of executing the JavaScript code snippet below?**
+```js
+let propBar = "bar1";
+let b2 = "bar2";
+
+class Class1 {
+   set [propBar](val) {
+     this.value = val;
+   }
+}
+
+let class2 = new Class1();
+console.log(class2.value);
+
+class2.bar1 = b2;
+console.log(class2.value);
+```
+
+* **Which of the following statements are correct, given the JavaScript code snippet below?**
+```js
+function Test() { this.prop1 = "a"; }
+
+Test.prototype.prop2 = "b";
+var a = new Test();
+var b = new Test();
+/* POINT 1 */
+
+Test.prototype.prop2 = "c";
+/* POINT 2 */
+
+a.prop1 = "d";
+a.prop2 = "e";
+/* POINT 3 */
+
+Test.prop2 = "h";
+/* POINT 4 */
+A.	The value of a.prop2 at POINT 1 is "b".
+B.	The value of b.prop2 at POINT 3 is "e".
+C.	The value of b.prop2 at POINT 4 is "h".
+D.	The value of b.prop2 at POINT 2 is "b".
+E.	The value of b.prop2 at POINT 4 is "c".
+```
+
+* **The JavaScript code snippet below is inside a web page. This page will have an iframe element inside the div element with id "demo" where a series of pages (demo1.html, demo2.html, demo3.html, demo4.html) will be shown in sequence every 10 seconds. Which of the following replace **A**, **B** and **C** to provide the expected result?**
+
+```html
+<p>These are our demo pages</p>
+<div id="demo"></div>
+<script>
+    (function() {
+        var cycle = ['ikm_07_02b.html','ikm_07_02c.html','ikm_07_02d.html'];
+        var active = 0;
+        var iframe = document.createElement('iframe');
+        iframe.frameBorder=0;
+        iframe.width="600px";
+        iframe.height="300px";
+        **A**;
+        function slideFrame() {
+            **B**;
+            active = (active == cycle.length-1)?0:active+1;
+        }
+        slideFrame();
+        **C**;
+    })();
+</script>
+A.	Replace B with iframe.setAttribute("src", cycle[active]).
+B.	Replace B with iframe.setAttribute("href", cycle[active]).
+C.	Replace C with setInterval(function() { slideFrame(); }, 10000).
+D.	Replace A with document.getElementById("demo").appendChild(iframe).
+E.	Replace A with document.frames.add(appendChild(iframe)).
+```
   
