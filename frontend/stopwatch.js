@@ -1,51 +1,75 @@
-/**
- * A simple stopwatch that can be used to time code
+# StopWatch
+# Lets implement a stop watch
+# I will mock the expected behavior below
+
+#Start, Stop, reset, elapsedTime
+
+#########################################
+# stop_watch = new instance of stopwatch
+# elapsed time should be 0
+# call start on stopwatch
+# 5 seconds later
+# call stop on stopwatch
+# elapsed time should be 5
+# call start on stopwatch
+# 3 seconds later
+# call stop on stopwatch
+# elapsed time should be 8
+# call reset on stopwatch
+# elapsed time should be 0
+
  */
-//only care about time elapsed
-//need difference between start and stop
+
+ var _ = require('underscore');
 
 class Stopwatch {
-  constructor(start, stop, lap) {
-    this.start = start;
-    this.stop = stop;
-    this.lap = lap;
-  }
-  
-  //check if lap is true to see if stopwatch is already running
-  startTime() {
-    // track the real start timestamp
-    var timestamp = new Date().getTime();
-    if (this.lap == true) {
-      return;
-    } 
-    this.lap = true;
-    this.start = timestamp;
-    return this.start;
+
+  constructor() {
+    this.start = 0;
+    this.stop = 0;
+    this.lap = 0;
   }
 
-  stopTime() {
-    // track the real stop timestamp
-    var timestamp = new Date().getTime();
-    if (this.lap == false) {
-      return;
-    }
-    
-    this.lap = false;
-    this.stop = timestamp;
+  reset() {
+    this.start = 0;
+    this.stop = 0;
+    this.lap = 0;
   }
 
   getElapsedTime() {
     return this.stop - this.start;
   }
 
-  reset() {
-    this.start = 0;
-    this.stop = 0;
-    this.lap = false;
+  getTotalElapsedTime() {
+    return this.lap;
   }
 
+  startTime() {
+    var time = new Date().getTime(); // or this
+    this.start = time;
+    return this.start;
+  }
+
+  stopTime() {
+    var time = new Date().getTime();
+    this.stop = time;
+    var elapsed = this.getElapsedTime();
+    console.log("elapsed = " + elapsed);
+    this.lap += elapsed;
+    return this.stop;
+  }
 }
 
-// Test out the stopwatch class
-let sw = new Stopwatch(10, 0, false);
-console.log(sw.getElapsedTime());
+var sw = new Stopwatch();
+sw.startTime();
+setTimeout(function timer() {
+  sw.stopTime();
+  console.log(sw.getElapsedTime());
+  sw.startTime();  // i think this messes it up
+  setTimeout(function timer2() {
+    sw.stopTime();
+    console.log(sw.getTotalElapsedTime());
+    sw.reset();
+    console.log(sw.getTotalElapsedTime());
+  }, 3000);
+}, 5000);
