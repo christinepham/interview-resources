@@ -34,6 +34,11 @@
 - [HTML & CSS Overview](https://internetingishard.com/html-and-css/)
 - [Interviewing a front-end developer](http://blog.sourcing.io/interview-questions)
 
+### ES6 Info Sites
+- [ES6-Features - Luke Hoban](https://github.com/lukehoban/es6features/blob/master/README.md)
+- [Let's Learn ES2015](https://css-tricks.com/lets-learn-es2015/)
+- [ES6-Features Org](http://es6-features.org/#GetterSetter)
+
 ### Helpful Sites
 - [How To Prepare For Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [System Design - Hired In Tech](https://www.hiredintech.com/classrooms/system-design/lesson/60)
