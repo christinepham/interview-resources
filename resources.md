@@ -44,6 +44,9 @@
 - [What is Closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [I never understood JavaScript Closure](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 
+### LinkedLists
+- [LinkedList - js algorithms](https://js-algorithms.tutorialhorizon.com/2015/10/03/javascript-linked-list-example/)
+
 ### Helpful Sites
 - [How To Prepare For Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [System Design - Hired In Tech](https://www.hiredintech.com/classrooms/system-design/lesson/60)
