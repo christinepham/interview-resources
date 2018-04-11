@@ -39,6 +39,11 @@
 - [Let's Learn ES2015](https://css-tricks.com/lets-learn-es2015/)
 - [ES6-Features Org](http://es6-features.org/#GetterSetter)
 
+### JavaScript Closures
+- [Closure In Plain English - FreeCodeCamp](https://medium.freecodecamp.org/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c)
+- [What is Closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [I never understood JavaScript Closure](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+
 ### Helpful Sites
 - [How To Prepare For Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [System Design - Hired In Tech](https://www.hiredintech.com/classrooms/system-design/lesson/60)
